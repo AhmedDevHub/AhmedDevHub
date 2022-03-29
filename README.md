@@ -8,8 +8,6 @@
 - 🥅 2022 Goals: Learn more about AWS
 - 🍀 Ask me about anything, I will be happy to help
 
-<br/>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdelrhmanmahmoud/"><img align="left" alt="my LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
@@ -27,9 +25,12 @@
 </div>
 <br/>
 <br/>
+
+
 <p align="center">  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif" alt="Devops GIF" width="500" height="400"></p>
 
-
+<br/>
+<br/>
 
 ### Languages and Tools:
 
