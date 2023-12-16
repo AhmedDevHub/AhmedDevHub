@@ -9,9 +9,9 @@
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/ahmed-ashraf/](https://www.linkedin.com/in/ahmedashrraf/)"><img align="left" alt="my LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/ahmedashrraf/"><img align="left" alt="my LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
-<a href="[https://github.com/ahmedashrafdev](https://github.com/Ahmed-Ashraf0/Ahmed-Ashraf0)">
+<a href="https://github.com/Ahmed-Ashraf0/Ahmed-Ashraf0">
   <img align="left" alt="my GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
 <a href="https://www.hackerrank.com/ahmedashraf">
