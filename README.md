@@ -4,7 +4,6 @@
 
 - 🏃‍♂️ I am passionate about Frontend Development, UI/UX Design, and Problem Solving.
 - 🌱 I’m currently learning new frontend technologies and improving my design skills.
-- 🥅 2022 Goals: Master React.js and enhance my UI/UX skills.
 - 🍀 Ask me about anything related to frontend development, and I will be happy to help.
 
 <div align="center">
