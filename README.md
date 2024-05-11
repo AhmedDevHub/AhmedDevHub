@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<p align="center"><img alt="Chillin' — animation" width="732" height="558" data-id="14909340" data-animated-url="https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif" skip_resize="true" srcset="https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 320w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 400w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 450w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 640w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 700w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 800w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 768w" sizes="(max-width: 919px) 100vw, max(768px, 98vh)" src="https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif"></p>
+<p align="center"><img class="pswp__img" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif" alt="" style="width: 803px; height: 602px;"></p>
 
 <br/>
 <br/>
