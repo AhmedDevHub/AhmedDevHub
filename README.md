@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<p align="center">  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif" alt="Frontend Development GIF" width="500" height="400"></p>
+<p align="center"><img alt="Chillin' — animation" width="732" height="558" data-id="14909340" data-animated-url="https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif" skip_resize="true" srcset="https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 320w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 400w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 450w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 640w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 700w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 800w, https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif 768w" sizes="(max-width: 919px) 100vw, max(768px, 98vh)" src="https://cdn.dribbble.com/users/1227791/screenshots/14909340/media/ca0b8e303fa6bcfb3987a527539a437d.gif"></p>
 
 <br/>
 <br/>
@@ -34,6 +34,8 @@
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg" style="padding-right:10px;" />
+<img align="left" alt="angular.js" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg" style="padding-right:10px;" />
+<img align="left" alt="typescript " width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" style="padding-right:10px;" />
 <img align="left" alt="angular.js" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/angular.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="50px" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" style="padding-right:10px;" />
