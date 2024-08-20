@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
   I'm Ahmed Ashraf
 </h1>
-## <h2 align="center">I'm a Frontend Developer.</h2>
+<h2 align="center">I'm a Frontend Developer.</h2>
 
 - 🏃‍♂️ I am passionate about Frontend Development, UI/UX Design, and Problem Solving.
 - 🌱 I’m currently learning new frontend technologies and improving my design skills.
@@ -17,13 +17,9 @@
 <a href="https://www.linkedin.com/in/ahmedashrraf/" target="_blank">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
-
-<a href="https://github.com/Ahmed-Ashraf0/Ahmed-Ashraf0" target="_blank">
-  <img align="left" alt="my GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
-</a>
-  <a href="https://api.whatsapp.com/send/?phone=201006877585&text&type=phone_number&app_absent=0" target="_blank">
+<a href="https://api.whatsapp.com/send/?phone=201006877585&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white" height="25" alt="linkedin logo"  />
-  </a>
+</a>
 <a href="mailto:ahmed.ashraf0221@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
