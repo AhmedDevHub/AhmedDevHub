@@ -3,12 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
   I'm Ahmed Ashraf
 </h1>
-<h2 align="center">I'm a Frontend Developer.</h2>
-
-- 🏃‍♂️ I am passionate about Frontend Development, UI/UX Design, and Problem Solving.
-- 🌱 I’m currently learning new frontend technologies and improving my design skills.
-- 🍀 Ask me about anything related to frontend development, and I will be happy to help.
-
+<h2 align="center">I'm an Angular Developer.</h2>
 ### 📫 Contact with me :
 <div align="center">
 <a href="https://www.linkedin.com/in/ahmedashrraf/" target="_blank">
