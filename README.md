@@ -10,19 +10,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/AhmedDevHub" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AhmedDevHub" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/ahmedashrraf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedashrraf" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ahmed.ashraf0221@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ahmed.ashraf0221@gmail.com" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://wa.me/201006877585" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="tel:+201006877585" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/597/597177.png" alt="Phone" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phone.svg" alt="Phone" height="30" width="40" />
   </a>
 </p>
 
