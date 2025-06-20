@@ -1,94 +1,74 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Ahmed Ashraf</h1><a id="user-content-hi--im-Ahmed-elmasry" class="anchor" aria-label="Permalink: Hi 👋, I'm Ahmed Elmasry" href="#hi--im-Ahmed-elmasry"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">Front-End / Full-Stack Developer</h1><a id="user-content-front-end--full-stack-developer" class="anchor" aria-label="Permalink: Front-End / Full-Stack Developer" href="#front-end--full-stack-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">
-  A passionate Front-End / Full-Stack Developer from Egypt 🇪🇬<br>
-  Always learning, building, and pushing boundaries 💻✨
-</p>
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db75fae514aa3b93429c2900d3d17392a0bb8cbb97c293733aa710fb8b0676d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d456e674261736d6161266c61796f75743d636f6d70616374267468656d653d7261646963616c266c616e67735f636f756e743d38"><img src="https://camo.githubusercontent.com/db75fae514aa3b93429c2900d3d17392a0bb8cbb97c293733aa710fb8b0676d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d456e674261736d6161266c61796f75743d636f6d70616374267468656d653d7261646963616c266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmeda&amp;layout=compact&amp;theme=radical&amp;langs_count=8" style="max-width: 100%;"></a>
-</p>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">💻 Tech Stack</h3><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f62ec212d83df2a4520cac30b8076b3d873f954cc9b71dbb9c909acc9f0ba685/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c74732c72656163742c6e6578746a732c616e67756c61722c6e6f64656a732c657870726573732c6d6f6e676f64622c7461696c77696e642c626f6f7473747261702c676974"><img src="https://camo.githubusercontent.com/f62ec212d83df2a4520cac30b8076b3d873f954cc9b71dbb9c909acc9f0ba685/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c74732c72656163742c6e6578746a732c616e67756c61722c6e6f64656a732c657870726573732c6d6f6e676f64622c7461696c77696e642c626f6f7473747261702c676974" data-canonical-src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,tailwind,bootstrap,git" style="max-width: 100%;"></a>
-</p>
-<hr>
-## 📊 GitHub Stats & Contributions
+# Hi, I'm Ahmed Ashraf
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmeddevhub&show_icons=true&theme=tokyonight&count_private=true)
+## Front-End / Full-Stack Developer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddevhub&layout=compact&theme=tokyonight)
+A passionate Front-End / Full-Stack Developer from Egypt  
+Always learning, building, and pushing boundaries 🚀  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmeddevhub&theme=tokyonight)
+---
 
-<!-- Change 'Ahmeddevhub' to your actual GitHub username -->
+### Most Used Languages
 
+- JavaScript 30%  
+- TypeScript 25%  
+- HTML 20%  
+- CSS 15%  
+- Python 5%  
+- Other 5%  
 
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🌐 Languages &amp; Tools</h3><a id="user-content--languages--tools" class="anchor" aria-label="Permalink: 🌐 Languages &amp; Tools" href="#-languages--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a0d21b1d71fadb4620bb934df77ed1f55d00878f34d6253314f83197197c9dfe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d456e674261736d6161266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/a0d21b1d71fadb4620bb934df77ed1f55d00878f34d6253314f83197197c9dfe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d456e674261736d6161266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmeda&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a>
-</p>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">💫 About Me</h3><a id="user-content--about-me" class="anchor" aria-label="Permalink: 💫 About Me" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li>🎓 <strong>Education</strong>: B.Sc. in Electrical and Computer Engineering, Menoufia University (2018)</li>
-<li>🎓 <strong>Master’s Diploma</strong>: Computer Science Engineering, Menoufia University (2023)</li>
-<li>💼 <strong>Current Training</strong>: Full-Stack Developer Program at ITI</li>
-<li>🌐 <strong>Tech Stack</strong>: React, Next.js, Angular, Node.js, Express, MongoDB</li>
-<li>🛠️ <strong>Skills</strong>: RESTful APIs, Responsive Design, UI/UX Standards</li>
-<li>🏆 <strong>Leadership</strong>: Led a team of 6 interns in a DEPI graduation project</li>
-<li>🤝 <strong>Open to</strong>: Collaborations on impactful digital solutions</li>
-</ul>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">📬 Contact Me</h3><a id="user-content--contact-me" class="anchor" aria-label="Permalink: 📬 Contact Me" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">📍 <strong>Location</strong>: Cairo, Egypt<br>
-📞 <strong>Phone</strong>: +201006877585</p>
-<p align="center" dir="auto">
-  <a href="mailto:ahmed.ashraf0221@gmail.com">
-    <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://linkedin.com/in/ahmedashrraf/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/AhmedDevHub">
-    <img src="https://camo.githubusercontent.com/f1fbce44786ee4edcf97a717cce6c15cfc38a1f098efb08f11c1c80dd595a909/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🚀 Projects</h3><a id="user-content--projects" class="anchor" aria-label="Permalink: 🚀 Projects" href="#-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li>🎬 <strong>Movie Verse Web App</strong>: React 18, Tailwind, ShadeCN, Chart.js</li>
-<li>🛒 <strong>E-commerce Electronics Platform</strong>: Angular 19, Bootstrap</li>
-<li>📚 <strong>Book Store Platform</strong>: Angular 19, TypeScript</li>
-<li>🎨 <strong>My Sketch Website</strong>: HTML, CSS, JS, Bootstrap, Node.js, Express, View Engine, MongoDB</li>
-<li>👗 <strong>Fashion Bazar Web Application</strong>: Angular, Node.js, Express.js, MongoDB</li>
-</ul>
-<hr>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📚 Courses &amp; Certifications</h2><a id="user-content--courses--certifications" class="anchor" aria-label="Permalink: 📚 Courses &amp; Certifications" href="#-courses--certifications"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c687ac51867c2e630b86508c1ff8bba163614a3a4be0436568be1fdd07f25626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742c2532304553362c25323052656163742c253230416e67756c61722c2532304e6f64652d4d6168617261253230546563682d2532336633396331323f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/c687ac51867c2e630b86508c1ff8bba163614a3a4be0436568be1fdd07f25626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742c2532304553362c25323052656163742c253230416e67756c61722c2532304e6f64652d4d6168617261253230546563682d2532336633396331323f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/JavaScript,%20ES6,%20React,%20Angular,%20Node-Mahara%20Tech-%23f39c12?style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca050eb3e82f5523a55b5dab86795f4fafd3f6c94f83e5b6385702fef31c46cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6173746572253230416e67756c6172253230285564656d79292d2532336536376532323f7374796c653d666f722d7468652d6261646765266c6f676f3d7564656d79266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ca050eb3e82f5523a55b5dab86795f4fafd3f6c94f83e5b6385702fef31c46cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6173746572253230416e67756c6172253230285564656d79292d2532336536376532323f7374796c653d666f722d7468652d6261646765266c6f676f3d7564656d79266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Master%20Angular%20(Udemy)-%23e67e22?style=for-the-badge&amp;logo=udemy&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/60733f44a13d4bc93743d2b7f4aa7ec1418289e29b5f88d55f3627add5af4b74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c6172253230666f72253230426567696e6e6572732d436f7572736572612d2532333334393864623f7374796c653d666f722d7468652d6261646765266c6f676f3d636f757273657261266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/60733f44a13d4bc93743d2b7f4aa7ec1418289e29b5f88d55f3627add5af4b74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c6172253230666f72253230426567696e6e6572732d436f7572736572612d2532333334393864623f7374796c653d666f722d7468652d6261646765266c6f676f3d636f757273657261266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Angular%20for%20Beginners-Coursera-%233498db?style=for-the-badge&amp;logo=coursera&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f87701495a4d65f63f1652ed2f6370564df33276f529200f444f90e38519cb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f667477617265253230456e67696e656572696e672d414c5825323053452d2532333962353962363f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/4f87701495a4d65f63f1652ed2f6370564df33276f529200f444f90e38519cb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f667477617265253230456e67696e656572696e672d414c5825323053452d2532333962353962363f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Software%20Engineering-ALX%20SE-%239b59b6?style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d834d635a80d9841ab7ddb3a3d94943cee92be6725063cfd178f84709d172757/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562253230446576656c6f706d656e742d556461636974792532302f2532304657442d2532333161626339633f7374796c653d666f722d7468652d6261646765266c6f676f3d75646163697479266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d834d635a80d9841ab7ddb3a3d94943cee92be6725063cfd178f84709d172757/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562253230446576656c6f706d656e742d556461636974792532302f2532304657442d2532333161626339633f7374796c653d666f722d7468652d6261646765266c6f676f3d75646163697479266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Web%20Development-Udacity%20/%20FWD-%231abc9c?style=for-the-badge&amp;logo=udacity&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6433e78f7b961aeab57725fc18a423cae225530ab20272bbd17abac59177e8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46756c6c2d2d537461636b2532304d45524e253230547261696e696e672d4954492d2532333265636337313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6433e78f7b961aeab57725fc18a423cae225530ab20272bbd17abac59177e8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46756c6c2d2d537461636b2532304d45524e253230547261696e696e672d4954492d2532333265636337313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Full--Stack%20MERN%20Training-ITI-%232ecc71?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6cbb2e8b3592d939a780f11b19bec619d053c1acb3b0e98308d21e65ddfcbf45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46756c6c2d2d537461636b2532304d45414e253230547261696e696e672d4e54492d2532336537346333633f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6cbb2e8b3592d939a780f11b19bec619d053c1acb3b0e98308d21e65ddfcbf45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46756c6c2d2d537461636b2532304d45414e253230547261696e696e672d4e54492d2532336537346333633f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Full--Stack%20MEAN%20Training-NTI-%23e74c3c?style=for-the-badge&amp;logo=angular&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa0136da427e8d35f9004f730399204bac38657a2a388a0c4c809f5b8a62f3a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6e742d2d456e64253230262532304c6561646572736869702d444550492532302537432532304d4349542d2532336330333932623f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/aa0136da427e8d35f9004f730399204bac38657a2a388a0c4c809f5b8a62f3a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6e742d2d456e64253230262532304c6561646572736869702d444550492532302537432532304d4349542d2532336330333932623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Front--End%20&amp;%20Leadership-DEPI%20%7C%20MCIT-%23c0392b?style=for-the-badge" style="max-width: 100%;"></a>
-</p>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✨ Volunteering</h3><a id="user-content--volunteering" class="anchor" aria-label="Permalink: ✨ Volunteering" href="#-volunteering"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li>🤝 <strong>Life Makers Association</strong>: Participated in community development projects, enhancing leadership and communication skills.</li>
-</ul>
-<hr>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">📫 Contact Me</h3><a id="user-content--contact-me-1" class="anchor" aria-label="Permalink: 📫 Contact Me" href="#-contact-me-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li>📍 <strong>Location</strong>: Cairo, Egypt</li>
-<li>📞 <strong>Phone</strong>: +201006877585</li>
-<li>📧 <strong>Email</strong>: <a href="mailto:ahmed.ashraf0221@gmail.com">ahmed.ashraf0221@gmail.com</a></li>
-<li>💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/ahmedashrraf/" rel="nofollow">linkedin.com/in/ahmedashrraf</a></li>
-<li>💻 <strong>GitHub</strong>: <a href="https://github.com/AhmedDevHub">github.com/AhmedDevHub</a></li>
-</ul>
-<hr>
-</article>
+---
+
+### Tech Stack
+
+React | Next.js | Node.js | Express | MongoDB | PostgreSQL
+
+---
+
+# GitHub Stats & Contributions
+
+## Ahmed Ashraf's GitHub Stats
+
+- **Total Stars Earned:** [Your Stars]  
+- **Total Commits (2025):** [Your Commits]  
+- **Total PRs:** [Your PRs]  
+- **Total Issues:** [Your Issues]  
+- **Contributed to (last year):** [Your Contributions]  
+
+---
+
+### About Me
+
+- **Education**: [Your Degree] in [Your Field], [Your University] (Year)
+- **Current Role**: [Your Current Position]
+- **Tech Stack**: React, Next.js, Node.js, Express, MongoDB
+- **Skills**: RESTful APIs, Responsive Design, UI/UX Standards
+- **Open to**: Collaborations on impactful digital solutions
+
+---
+
+# Projects
+
+- [Project 1 Name]: [Tech Stack Used]  
+- [Project 2 Name]: [Tech Stack Used]  
+- [Project 3 Name]: [Tech Stack Used]  
+
+---
+
+# Courses & Certifications
+
+- **Full-Stack Web Development**  
+  [Institution]  
+- **Advanced JavaScript**  
+  [Institution]  
+- **React Specialist**  
+  [Institution]  
+
+---
+
+# Contact Me
+
+**Location**: Cairo, Egypt  
+**Phone**: +201006877585  
+**Email**: [Your Email]  
+**LinkedIn**: [linkedin.com/in/ahmedashrraf](https://www.linkedin.com/in/ahmedashrraf/)  
+**GitHub**: [github.com/Ahmeddevhub](https://github.com/Ahmeddevhub)  
